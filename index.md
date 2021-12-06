@@ -4,7 +4,7 @@
 
 ### Labs
 
-[Lab 1](/sample_page)
+[Lab 1](/pdf/lab1.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
