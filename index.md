@@ -25,7 +25,7 @@
 
 ---
 [Term Project](/pdf/termproj.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/lsci.jpg?raw=true"/>
 
 
 
