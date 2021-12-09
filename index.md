@@ -8,25 +8,24 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Lab 2](/pdf/lab1.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Lab 3](/pdf/lab1.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-### Final Project
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Lab 4](/pdf/lab1.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Lab 5](/pdf/lab1.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
+[Term Project](/pdf/termproj.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 
